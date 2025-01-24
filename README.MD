@@ -28,6 +28,8 @@ A React-based application that allows users to search for books using the Google
 
 ## Deployed Site
 
+<img width="1182" alt="Image" src="https://github.com/user-attachments/assets/f25c3b29-d113-4a69-b9ed-06cee0bd24a5" />
+
 ## License
 This project is licensed under the MIT License.
 
